@@ -20,28 +20,24 @@
 <i><sub>Screenshot z symulacji</sub></i>
 </p>
 
-# Getting started
+# Opis projektu
 
 #### :heavy_check_mark: Requirements
 
-To compile and run this project, you will need:
-- the NASM assembler
-- the GNU linker
-- a Linux x64 operating system
+DO kompilacji i uruchomienia tego projektu użyto:
+- assemblera NASM
+- linkera GNU
+- Linux Ubuntu x86_64 OS
 
-The program can easily be modified to accommodate other operating system or assembler requirements.
 
 #### :page_facing_up: Implementation notes
 
-The initial cell pattern is generated using ideas from *Middle Square Weyl Sequence RNG*, published by Bernard Widynski on 4th April 2017. 
-
-The implementation relies on a finite grid, all cells outside the grid boundaries are considered as dead.
+Gra w życie (Life, The game of life) – jeden z pierwszych i najbardziej znanych przykładów automatu komórkowego, wymyślony w roku 1970 przez brytyjskiego matematyka Johna Conwaya
 
 #### :cd: Running the code
 
-Simply use the following commands in a terminal:
+Symulacje odpalano poniższymi komendami:
 ```
-git clone https://github.com/PyvesB/ASM-GameOfLife.git
 cd ASM-GameOfLife
 make
 ./life
@@ -49,23 +45,13 @@ make
 
 #### :earth_americas: Useful links
 
-The following pages may be of interest:
-- [NASM manual](http://www.nasm.us/xdoc/2.13.01/html/nasmdoc0.html)
-- [Game Of Life rules](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+Korzystano z następujących źródeł podczas tworzenia projektu:
+- [Manual NASM](http://www.nasm.us/xdoc/2.13.01/html/nasmdoc0.html)
+- [Zasady "Gry w życie"](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+- [Dokumentacja Assembler x86_64](http://www.egr.unlv.edu/~ed/assembly64.pdf)
 
 # Contributing
 
-#### `$ code`
-
-Want to make ASM-GameOfLife better, faster, stronger? Contributions are more than welcome, open a **pull request** and share your code! Simply **fork** the repository by clicking on the icon on the top right of this page and you're ready to go!
-
-#### :speech_balloon: Support
-
-Thought of a cool idea? Found a problem or need some help? Simply open an [**issue**](https://github.com/PyvesB/ASM-GameOfLife/issues)!
-
-#### :star: Thanks
-
-Find the project useful, fun or interesting? **Star** the repository by clicking on the icon on the top right of this page!
 
 # License 
 
