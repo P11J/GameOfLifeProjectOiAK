@@ -1,4 +1,4 @@
-# ASM-GameOfLife
+# GameOfLifeProjectOiAK
 <a href="https://github.com/PyvesB/ASM-GameOfLife/blob/master/LICENSE">
 <img src ="https://img.shields.io/github/license/PyvesB/ASM-GameOfLife.svg" />
 </a>
