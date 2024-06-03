@@ -12,12 +12,12 @@
 <img src ="https://img.shields.io/github/forks/PyvesB/ASM-GameOfLife.svg" />
 </a>
 
-**An assembly implementation of Conway's Game of Life, using the NASM assembler and targeting Linux x86-64.**
+**Assemblerowa implementacja "Gry w życie" Conway'a, używając NASM i Linux Ubuntu x86-64.**
 
 <p align="center">
 <img src ="https://github.com/PyvesB/asm-game-of-life/blob/master/screenshot.png?raw=true" />
 <br/>
-<i><sub>Screenshot from a Fedora workstation terminal. Have a close look and you'll be able to spot some gliders!</sub></i>
+<i><sub>Screenshot z symulacji</sub></i>
 </p>
 
 # Getting started
