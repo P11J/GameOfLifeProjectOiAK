@@ -2,12 +2,6 @@
 <a href="https://github.com/PyvesB/ASM-GameOfLife/blob/master/LICENSE">
 <img src ="https://img.shields.io/github/license/PyvesB/ASM-GameOfLife.svg" />
 </a>
-<a href="https://github.com/PyvesB/ASM-GameOfLife/issues">
-<img src ="https://img.shields.io/github/issues/PyvesB/ASM-GameOfLife.svg" />
-</a>
-<a href="https://github.com/PyvesB/ASM-GameOfLife/stargazers">
-<img src ="https://img.shields.io/github/stars/PyvesB/ASM-GameOfLife.svg" />
-</a>
 <a href="https://github.com/PyvesB/ASM-GameOfLife/network">
 <img src ="https://img.shields.io/github/forks/PyvesB/ASM-GameOfLife.svg" />
 </a>
@@ -36,7 +30,7 @@ Gra w życie (Life, The game of life) – jeden z pierwszych i najbardziej znany
 
 #### :cd: Running the code
 
-Symulacje odpalano poniższymi komendami:
+Symulacje uruchamiano poniższymi rozkazami:
 ```
 cd ASM-GameOfLife
 make
