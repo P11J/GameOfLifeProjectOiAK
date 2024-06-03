@@ -1,6 +1,4 @@
 # GameOfLifeProjectOiAK
-<img src ="https://img.shields.io/github/license/PyvesB/ASM-GameOfLife.svg" />
-</a>
 
 **Assemblerowa implementacja "Gry w życie" Conway'a, używając NASM i Linux Ubuntu x86-64.**
 
