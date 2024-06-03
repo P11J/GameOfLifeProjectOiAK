@@ -13,13 +13,13 @@
 
 # Opis projektu
 
-DO kompilacji i uruchomienia tego projektu użyto:
+Do kompilacji i uruchomienia tego projektu użyto:
 - assemblera NASM
 - linkera GNU
 - Linux Ubuntu x86_64 OS
 
 
-#### :page_facing_up: Co to "Gra w życie" COnway'a
+#### :page_facing_up: Co to "Gra w życie" Conway'a
 
 Gra w życie (Life, The game of life) – jeden z pierwszych i najbardziej znanych przykładów automatu komórkowego, wymyślony w roku 1970 przez brytyjskiego matematyka Johna Conwaya
 
