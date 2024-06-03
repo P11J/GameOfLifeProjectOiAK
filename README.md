@@ -40,6 +40,3 @@ Korzystano z następujących źródeł podczas tworzenia projektu:
 - [Dokumentacja Assembler x86_64](http://www.egr.unlv.edu/~ed/assembly64.pdf)
 
 
-# License 
-
-GNU General Public License v3.0
